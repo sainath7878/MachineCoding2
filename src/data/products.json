@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "brand": "Young trendz",
+      "description": "Printed Men Round Neck Yellow T-Shirt",
+      "price": {
+        "actual": "1149",
+        "discounted": "299"
+      },
+      "discount": "73",
+      "imageSrc": "https://res.cloudinary.com/duy47nrum/image/upload/v1654697999/machinecoding2/men_s_clothing_1_d6w4tc.webp",
+      "category": "Men's Clothing"
+    },
+    {
+      "id": "2",
+      "brand": "Allen Solly",
+      "description": "Men Slim Fit Solid Cut Away Collar Casual Shirt",
+      "price": {
+        "actual": "1399",
+        "discounted": "979"
+      },
+      "discount": "30",
+      "imageSrc": "https://res.cloudinary.com/duy47nrum/image/upload/v1654698078/machinecoding2/mens_clothing_2_mbfumi.webp"
+    },
+
+    {
+      "id": "3",
+      "brand": "Roadster",
+      "description": "Printed Men Round Neck Green T-Shirt",
+      "price": {
+        "actual": "699",
+        "discounted": "329"
+      },
+      "discount": "52",
+      "imageSrc": "https://res.cloudinary.com/duy47nrum/image/upload/v1654698206/machinecoding2/mens_clothting_3_bkjtj8.webp",
+      "category": "Men's Clothing"
+    },
+    {
+      "id": "4",
+      "brand": "Arunya",
+      "description": "Embroidered Fashion Silk Blend Saree  (Pink)",
+      "price": {
+        "actual": "721",
+        "discounted": "3999"
+      },
+      "discount": "81",
+      "imageSrc": "https://res.cloudinary.com/duy47nrum/image/upload/v1654698312/machinecoding2/womens_clothing_1_blg1qv.webp",
+      "category": "Women's Clothing"
+    },
+    {
+      "id": "5",
+      "brand": "Sariya",
+      "description": "Woven Banarasi Silk Blend, Jacquard Saree  (Red)",
+      "price": {
+        "actual": "731",
+        "discounted": "4999"
+      },
+      "discount": "85",
+      "imageSrc": "https://res.cloudinary.com/duy47nrum/image/upload/v1654698452/machinecoding2/womens_closthing_2_khkhzk.webp",
+      "category": "Women's Clothing"
+    },
+    {
+      "id": "6",
+      "brand": "mokshi",
+      "description": "Women Kurta and Palazzo Set Rayon",
+      "price": {
+        "actual": "554",
+        "discounted": "2699"
+      },
+      "discount": "79",
+      "imageSrc": "https://res.cloudinary.com/duy47nrum/image/upload/v1654698523/machinecoding2/womens_clothing_3_i7ouvf.webp",
+      "category": "Women's Clothing"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+ul {
+  list-style: none;
+}
+
+.amount-list > *{
+    margin-bottom: 2rem;
+}

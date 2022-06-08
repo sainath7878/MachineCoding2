@@ -1,0 +1,26 @@
+.horizontal-card {
+  max-height: 25rem;
+}
+
+.cartCard-cta {
+  display: flex;
+  gap: 2rem;
+}
+
+.horizontal-card-image {
+  object-position: top;
+}
+
+.quantity {
+  display: flex;
+  align-items: center;
+}
+
+.quantity > button {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.quantity > * {
+  margin-right: 1rem;
+}

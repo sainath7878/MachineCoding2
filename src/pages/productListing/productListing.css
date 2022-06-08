@@ -1,0 +1,11 @@
+.all-products-container {
+  padding: 3rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.card-image {
+  object-position: top center;
+}
